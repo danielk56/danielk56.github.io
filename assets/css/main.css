@@ -152,6 +152,12 @@
     text-align: center;
   }
 
+..connect {
+  font-size: 150%
+}}
+}
+
+
 /* =Page navigation *//*************************************************************/
   .PageNavigation {
     display: block;
