@@ -3,7 +3,7 @@ title: Daniel Kim
 description: >
   I'm a junior at Yale University, studying statistics & data science and interested in tangible social change
 
-baseurl: "/danielkim" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://danielk56.github.io/" # the base hostname & protocol for your site
 
 author:
