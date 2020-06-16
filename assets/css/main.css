@@ -55,6 +55,9 @@
   .navigation {
     float: left; }
 
+ .navigation1 {
+    float: right; }
+
   .logo {
     font-size: 300%;
     font-weight: 700;
