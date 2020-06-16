@@ -12,12 +12,16 @@ Below, I've compiled my projects that I have completed in my courses, internship
 
   
 {: .list-arrows .list-bold}
+
+<div class="wide">
+  
 - [Highlights](#highlights)
 - [Data science](#data-science)
 - [Social science & policy](#social-science)
 - [Music & piano](#music)
 - [Other](#other)
 
+</div>
 
 ## Statistics & Data science {#data-science}
 
