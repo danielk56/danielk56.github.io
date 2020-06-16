@@ -13,13 +13,15 @@ Below, I've compiled my projects that I have completed in my courses, internship
   
 
 <div class="wide">
-  {: .list-arrows .list-bold}
+  
+({: .list-arrows .list-bold}
 
 - [Highlights](#highlights)
 - [Data science](#data-science)
 - [Social science & policy](#social-science)
 - [Music & piano](#music)
 - [Other](#other)
+)
 
 </div>
 
