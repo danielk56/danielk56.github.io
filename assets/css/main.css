@@ -152,9 +152,9 @@
     text-align: center;
   }
 
-..connect {
-  font-size: 150%
-}}
+  .connect {
+    font-size: 150%;
+    float: center; 
 }
 
 
