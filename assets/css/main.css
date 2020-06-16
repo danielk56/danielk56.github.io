@@ -82,7 +82,7 @@
     font-weight: 400; }
 
   .social-links {
-    float: center;
+    text-align: center;
     font-size: 150%;
     color: #828282;
     list-style-type: none; }
