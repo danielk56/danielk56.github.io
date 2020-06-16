@@ -11,10 +11,10 @@ Below, I've compiled my projects that I have completed in my courses, internship
 
 
   
-{: .list-arrows .list-bold}
 
 <div class="wide">
-  
+  {: .list-arrows .list-bold}
+
 - [Highlights](#highlights)
 - [Data science](#data-science)
 - [Social science & policy](#social-science)
