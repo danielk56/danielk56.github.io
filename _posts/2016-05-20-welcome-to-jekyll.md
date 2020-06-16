@@ -1,26 +1,14 @@
 ---
 layout: page
-title:  "Welcome to Pudhina"
-subtitle: "A minimal Jekyll theme"
-date:   2016-05-20 21:21:21 +0530
-categories: ["general"]
+title:  "Study Abroad in South Korea"
+subtitle: "My experience with the Light Fellowship"
+date:   2020-06-16 17:40:21 +0530
+categories: ["misc"]
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+During the summer of 2019, I had the privilege of studying at Sogang University's Korean Language Education Center under Yale's Light Fellowship. The Richard U. Light Fellowship Program fully funds Yale undergraduate, graduate, and professional school students pursuing intensive language study in Chinese, Japanese, and Korean for terms ranging from a single summer to a combined summer plus academic year. Light Fellows undertake rigorous language training alongside intense cultural immersion. Along the way, I made wonderful friends, learned valuable lessons, had unforgettable experiences, and ate amazing food. One of the best experiences of my life for sure. 
 
-Jekyll also offers powerful support for code snippets:
+During my time there, I documented my travels week by week. If you're interested, check out my blog [here]!
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+[here]: https://koreaonline.travel.blog/
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
