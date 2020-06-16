@@ -28,13 +28,12 @@ Below, I've compiled my projects that I have completed in my courses, internship
 
 
 ## Nonprofit & Education Work {#nonprofit}
+
 {: .list-plus}
 
 - **Project Head for Yale's Restaurant Rescue Project**, a subset of the Yale Hunger and Homelessness Action Project.
 - **Worked as an Undergraduate Learning Assitant for the Yale Statistics & Data Science Department**. Helped professor Joseph Chang design and grade problem sets in the Intensive Introductory Statistics course at Yale (S&DS 220). Moreover, assisted professor Sudesh Kalyanswamy grading Multivariable Calculus problem sets and extra problems over the course of the 19-20 academic year.
 - **Worked with MathCounts and Yale's Education Studies Department** to work firsthand with schools in the greater New Haven community such as Edgewood STEAM Middle School. I shadowed teachers instructing mathematics and the sciences and even designed my own curriculum to prepare student for the nationwide MathCounts competition.  Worked in classrooms of size 10-20 students offering individual and group instruction. [MathCount Curriculum](https://drive.google.com/drive/folders/0B91YG2aOrwZeVkpqT2VvcDNuRFE?usp=sharing){:target="_blank" class="button inline-label-page"}
-
-
 
 
 </div>
