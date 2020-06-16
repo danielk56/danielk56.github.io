@@ -229,6 +229,175 @@
 
   }
 
+
+/* PAGE STYLES: WORK */
+
+.inline-label-now,
+.inline-label-note,
+.inline-label-github,
+.inline-label-page {
+    font-size: 90%;
+    font-weight: 600;
+    color: white;
+    border-radius: 3px;
+    padding: 1px 6px;
+    margin-right: 1px;
+    margin-left: 3px;
+    text-decoration: none;
+    transition: all 0.25s ease-in-out;
+}
+
+.inline-label-github:hover,
+.inline-label-page:hover {
+    opacity: 0.75;
+    transition: all 0.25s ease-in-out;
+}
+
+.inline-label-now {
+    margin-right: 4px;
+    background-color: var(--color-blue);
+}
+
+.inline-label-note {
+    color: black !important;
+    background-color: #eeeeee;
+}
+
+.inline-label-github {
+    background-color: #6f42c1;
+}
+
+.inline-label-page {
+    background-color: var(--color-pink);
+}
+
+/* PAGE STYLES: WORK */
+
+.inline-label-now,
+.inline-label-note,
+.inline-label-github,
+.inline-label-page {
+    font-size: 90%;
+    font-weight: 600;
+    color: white;
+    border-radius: 3px;
+    padding: 1px 6px;
+    margin-right: 1px;
+    margin-left: 3px;
+    text-decoration: none;
+    transition: all 0.25s ease-in-out;
+}
+
+.inline-label-github:hover,
+.inline-label-page:hover {
+    opacity: 0.75;
+    transition: all 0.25s ease-in-out;
+}
+
+.inline-label-now {
+    margin-right: 4px;
+    background-color: var(--color-blue);
+}
+
+.inline-label-note {
+    color: black !important;
+    background-color: #eeeeee;
+}
+
+.inline-label-github {
+    background-color: #6f42c1;
+}
+
+.inline-label-page {
+    background-color: var(--color-pink);
+}
+
+/* LISTS */
+
+ul {
+    list-style: outside none;
+    margin: 0;
+    padding: 0;
+    font-size: 95%;
+}
+
+li {
+    margin-bottom: 0.6em;
+    line-height: 1.2em;
+}
+
+ul li >,
+ol li > * {
+    padding: 0;
+    margin: 0;
+}
+
+.list-plus,
+.list-arrows {
+    padding-left: 40px;
+    margin-top: 1.5em;
+    margin-bottom: 1.5em;
+}
+
+.list-plus li,
+.list-arrows li {
+    text-indent: -2em;
+}
+
+.list-plus li:before,
+.list-arrows li:before {
+    padding-right: 1em;
+}
+
+.list-plus li:before {
+    content: "+";
+    padding-right: 1.35em;
+}
+
+.list-arrows li:before {
+    content: "→";
+}
+
+.list-bold {
+    font-weight: bold;
+}
+
+.list-bar {
+    padding-left: 0;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    line-height: 2em;
+}
+
+.list-bar li {
+    display: inline;
+    padding: .25em .5em;
+    color: white;
+    text-indent: -1.3125em;
+}
+
+.list-bar.actions li {
+    background-color: var(--color-slate);
+}
+
+.list-bar.tools li {
+    background-color: var(--color-pink);
+}
+
+.list-bar.buttons li {
+    transition: all 0.25s ease-in-out;  
+}
+
+.list-bar.buttons li:hover {
+    opacity: 0.5;
+    transition: all 0.25s;  
+}
+
+.list-bar.buttons li a {
+    color: white;
+    text-decoration: none;  
+}
+
 /* =Glitch effect, Source: http://codepen.io/bulby97/pen/fcvay *//*************************************************************/
   .glitch {
     position: relative;
