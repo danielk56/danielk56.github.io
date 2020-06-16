@@ -398,6 +398,15 @@ ol li > * {
     text-decoration: none;  
 }
 
+
+/*Size*/
+.wide {
+    max-width: 768px;
+    padding: 1.5em 3em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 /* =Glitch effect, Source: http://codepen.io/bulby97/pen/fcvay *//*************************************************************/
   .glitch {
     position: relative;
