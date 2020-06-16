@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hello
-subtitle: My name is Pudhina
+subtitle: My name is Daniel!
 sitemap:
   priority: 0.9
 ---
@@ -9,6 +9,5 @@ sitemap:
 <img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability</p>
-	<p>Fork and use the theme from the <strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
+	<p>I am a junior at Yale University studying Statistics & Data Science, who is interested in tangible growth and change.</p>
 </div>
