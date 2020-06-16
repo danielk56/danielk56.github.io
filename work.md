@@ -16,11 +16,15 @@ Below, I've compiled my projects that I have completed in my courses, internship
 - [Other](#other)
 
 
-
-
 ## Statistics & Data science {#data-science}
 
 {: .list-plus}
+- **Wrote a comprehensive multivariate statistical report** regarding the COVID-19 pandemic and its implications on the American healthcare system capacity. Used publicly available dataset from [Harvard Global Health Institute](https://globalepidemics.org/hospital-capacity/), using technqiues such as principal components analysis, factor analysis, and culster analysis. Received narrative commendations from professor Jonathan Reuning-Scherer for report and work in the class S&DS 363, Multivariate Statistical Methods in the Social Sciences [GitHub](https://github.com/danielk56/projects
+){:target="_blank" class="button inline-label-github"}</span>
+- **Analyzed and visualized survey results** from Yale's Class of 2020 for the Yale Daily News' Commencement Special Issues edition. Distributed 20 question to over 1,000 students; cleaned, analyzed, and visualized data using `R`, `Python`, and `Tableau`. Also, working to create a piece on similarities and differences of Yale's Fourteen Residential Colleges, using student data scraped from Yale Facebook. Check out some of my work:[Story](https://yaledailynews.com/blog/2020/01/10/yales-most-popular-courses/){:target="_blank" class="button inline-label-page"} [GitHub](https://github.com/danielk56/YDN
+){:target="_blank" class="button inline-label-github"}</span>
 - **Conducted a randomized field experiment** on whether randomly altering the thickness and length of cane clarinet reeds affects the tone quality and intonation of the instrument. Implemented randomized experimentation in randomized field design with `R` using concepts such as average treatment effect and logistic regression to determine that "reed clipping" has a significant effect on tone quality, whereas it has minimal consequences on intonation. <span class="evidence"> </span> <span class="evidence"> [Report](https://docs.google.com/document/d/1gaCthZn8i--5KMT99j81gLKQORrPa4koeGISuCgMym4/edit?usp=sharing){:target="_blank" class="button inline-label-page"} [Slides](https://docs.google.com/presentation/d/1zd59RaqKpmRObjP6AkwsitbJwyKti2KmvvvxU4stb7o/edit?usp=sharing){:target="_blank" class="button inline-label-page"}</span> <span class="evidence">[GitHub](https://github.com/danielk56/LORE_final_project){:target="_blank" class="button inline-label-github"}</span>
+
+
 
 </div>
