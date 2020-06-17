@@ -5,6 +5,8 @@ title: About
 
 <div class="wide" markdown="1">
 
+![Profile][/assets/img/profile.jpg]
+
 Hi! I'm Daniel!
 
 
