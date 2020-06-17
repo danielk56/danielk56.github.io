@@ -11,8 +11,8 @@ Below, I've compiled my projects that I have completed in my courses, internship
 
 - [Highlights](#highlights)
 - [Data science](#data-science)
-- [Nonprofit & Education Work](#nonprofit)
-- [Cooking](#other)
+- [Nonprofit & Education](#nonprofit)
+- [Cooking & Food](#food)
 
 
 ## Statistics & Data science {#data-science}
@@ -27,7 +27,7 @@ Below, I've compiled my projects that I have completed in my courses, internship
 - **Conducted a randomized field experiment** on whether randomly altering the thickness and length of cane clarinet reeds affects the tone quality and intonation of the instrument. Implemented randomized experimentation in randomized field design with `R` using concepts such as average treatment effect and logistic regression to determine that "reed clipping" has a significant effect on tone quality, whereas it has minimal consequences on intonation. <span class="evidence"> </span> <span class="evidence"> [Report](https://docs.google.com/document/d/1gaCthZn8i--5KMT99j81gLKQORrPa4koeGISuCgMym4/edit?usp=sharing){:target="_blank" class="button inline-label-page"} [Slides](https://docs.google.com/presentation/d/1zd59RaqKpmRObjP6AkwsitbJwyKti2KmvvvxU4stb7o/edit?usp=sharing){:target="_blank" class="button inline-label-page"}</span> <span class="evidence">[GitHub](https://github.com/danielk56/LORE_final_project){:target="_blank" class="button inline-label-github"}</span>
 
 
-## Nonprofit & Education Work {#nonprofit}
+## Nonprofit & Education{#nonprofit}
 
 {: .list-plus}
 
@@ -35,5 +35,13 @@ Below, I've compiled my projects that I have completed in my courses, internship
 - **Worked as an Undergraduate Learning Assitant for the Yale Statistics & Data Science Department**. Helped professor Joseph Chang design and grade problem sets in the Intensive Introductory Statistics course at Yale (S&DS 220). Moreover, assisted professor Sudesh Kalyanswamy grading Multivariable Calculus problem sets and extra problems over the course of the 19-20 academic year.
 - **Worked with MathCounts and Yale's Education Studies Department** to work firsthand with schools in the greater New Haven community such as Edgewood STEAM Middle School. I shadowed teachers instructing mathematics and the sciences and even designed my own curriculum to prepare student for the nationwide MathCounts competition.  Worked in classrooms of size 10-20 students offering individual and group instruction. [MathCount Curriculum](https://drive.google.com/drive/folders/0B91YG2aOrwZeVkpqT2VvcDNuRFE?usp=sharing){:target="_blank" class="button inline-label-page"}
 
+
+## Cooking & Food {#other}
+
+{: .list-plus}
+
+- **Project Head for Yale's Restaurant Rescue Project**, a subset of the Yale Hunger and Homelessness Action Project.
+- **Shadowed 30 Under 30 Food & Drink Chef Lucas Sin** during a professional externship at the Junzi Test Kitchen in Times Square, New York City.
+- **Runner up for Ezra Stiles Final Cut Competition**, parterning with staff at Yale Dining to develop a recipe in professional residential college kitchen.  to work firsthand with schools in the greater New Haven community such as Edgewood STEAM Middle School. I shadowed teachers instructing mathematics and the sciences and even designed my own curriculum to prepare student for the nationwide MathCounts competition.  Worked in classrooms of size 10-20 students offering individual and group instruction. [MathCount Curriculum](https://drive.google.com/drive/folders/0B91YG2aOrwZeVkpqT2VvcDNuRFE?usp=sharing){:target="_blank" class="button inline-label-page"}
 
 </div>
