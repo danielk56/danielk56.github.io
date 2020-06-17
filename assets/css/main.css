@@ -23,7 +23,7 @@ main a:not(.button):not(.arrow):focus,
 main a:not(.button):not(.arrow):hover,
 footer a:not(.button):not(.arrow):focus,
 footer a:not(.button):not(.arrow):hover {
-    background: var(#16a085);
+    background: var(--color-green);
     color: white;
     transition: all 0.25s;
 }
