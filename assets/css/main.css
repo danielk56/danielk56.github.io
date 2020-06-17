@@ -387,7 +387,7 @@ img.displayed {
     border-radius: 50%;
     width: 240px;
     float: right;
-    margin: -160px 0 20px 16px;
+    margin: -100px 0 24px 20px;
 }
 
 @media screen and (max-width: 768px) {
