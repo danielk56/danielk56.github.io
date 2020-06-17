@@ -9,7 +9,6 @@ Below, I've compiled my projects that I have completed in my courses, internship
   
 {: .list-arrows .list-bold}
 
-- [Highlights](#highlights)
 - [Data science](#data-science)
 - [Nonprofit & Education](#nonprofit)
 - [Cooking & Food](#food)
@@ -37,12 +36,12 @@ Below, I've compiled my projects that I have completed in my courses, internship
 
 
 
-## Cooking & Food {#other}
+## Cooking & Food {#food}
 
 {: .list-plus}
 
-- **Project Head for Yale's Restaurant Rescue Project**, a subset of the Yale Hunger and Homelessness Action Project.
-- **Shadowed 30 Under 30 Food & Drink Chef Lucas Sin** during a professional externship at the Junzi Test Kitchen in Times Square, New York City.
-- **Runner up for Ezra Stiles Final Cut Competition**, parterning with staff at Yale Dining to develop a recipe in professional residential college kitchen.  to work firsthand with schools in the greater New Haven community such as Edgewood STEAM Middle School. I shadowed teachers instructing mathematics and the sciences and even designed my own curriculum to prepare student for the nationwide MathCounts competition.  Worked in classrooms of size 10-20 students offering individual and group instruction. [MathCount Curriculum](https://drive.google.com/drive/folders/0B91YG2aOrwZeVkpqT2VvcDNuRFE?usp=sharing){:target="_blank" class="button inline-label-page"}
+- **Cook for Yale Pop Up**, a completely student-run and student-managed dining experienced housed in the university's residential college system. Helps design the menu on a bi-weekly basis and cook for crowds ranging from 60 to 100 people on weekends. Selected from an intensive audition process.[Photos](https://drive.google.com/drive/folders/1vzjcyZ-oEXPlx0gVpVvmtS8hUBs69u13?usp=sharing){:target="_blank" class="button inline-label-page"} 
+- **Shadowed 30 Under 30 Food & Drink Chef Lucas Sin** during a professional externship at the Junzi Test Kitchen in Times Square, New York City. Underwent professional training for the restaurant industry at a culinary and management level; learned the daily operations of Junzi's main industrial-sized preparatory kitchen. Helped prepare a five course meal for a Dinner and Discussion with Farmshelf. [Photos](https://drive.google.com/drive/folders/1CcbGgEMQLU-qXVCtmW-ql5pSIzWeTJTT?usp=sharing){:target="_blank" class="button inline-label-page"} 
+- **Runner up for Ezra Stiles Final Cut Competition**, parterning with staff at Yale Dining to develop a recipe in professional residential college kitchen. Helped incorporate Asian-Fusion food into the curriculum of the Final Cut competition with dishes such as scallion latkes, asian pear apple sauce, sriracha sour cream and more.
 
 </div>
