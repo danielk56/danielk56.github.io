@@ -276,6 +276,101 @@ img.displayed {
     background-color: var(--color-pink);
 }
 
+
+/* PAGE STYLES: HOME */
+
+.home-top {
+    display: block;
+    height: 4em;
+}
+
+.home-title {
+    font-size: 300%;
+    margin-bottom: 1em;
+}
+
+.home-subtitle {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    display: block;
+    font-weight: 400;
+    font-size: 175%;
+    line-height: 150%;
+}
+
+.home-blurb {
+    display: block;
+    font-weight: 400;
+    font-size: 125%;
+    line-height: 145%;
+}
+
+.home-bottom {
+    display: block;
+    height: calc(2vh + 1vw);
+}
+
+.home-pills {
+    margin-top: 2.5em;
+    text-transform: uppercase;
+    font-size: 90%;
+    font-weight: 700;
+/*    color: gray;*/
+}
+
+/*
+.home-pills {
+    display: inline-block;
+    margin-top: 1.5em;
+    padding: 0.25em 0.75em;
+    color: white;
+    background-color: var(--color-blue);
+    text-transform: uppercase;
+    font-size: 90%;
+    font-weight: 700;
+    border-radius: 3px;
+}
+*/
+
+.home-image {
+    object-fit: cover;
+    height: 560px;
+    margin-bottom: 4em;
+}
+
+.home-bio {
+    font-size: 95%;
+    line-height: 1.5em;
+}
+
+@media screen and (max-width: 640px) {   
+    .home-title {
+        font-size: 250%;
+    }
+    
+    .home-subtitle {
+        font-size: 150%;
+    }
+}
+
+/* PAGE STYLES: BIO */
+
+#bio-prof-pic {
+    border-radius: 50%;
+    width: 320px;
+    float: right;
+    margin: -140px 0 24px 20px;
+}
+
+@media screen and (max-width: 768px) {
+    #bio-prof-pic {
+        float: none;
+        margin: 0;
+        margin-bottom: 20px;
+        margin-top: -120px;
+        width: 280px;
+    }
+}
 /* PAGE STYLES: WORK */
 
 .inline-label-now,
