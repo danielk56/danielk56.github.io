@@ -5,7 +5,7 @@ title: About
 
 <div class="wide" markdown="1">
 
-![Profile][/master/assets/img/profile.jpg]
+![Profile][https://raw.githubusercontent.com/danielk56/danielk56.github.io/master/assets/img/profile.jpg]
 
 Hi! I'm Daniel!
 
