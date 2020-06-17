@@ -7,7 +7,7 @@ title: About
 
 <div class="wide" markdown="1">
 
-<IMG class="displayed" src="https://raw.githubusercontent.com/danielk56/danielk56.github.io/master/assets/img/profile.jpg?raw=true "Profile">
+<IMG class="displayed" src="https://raw.githubusercontent.com/danielk56/danielk56.github.io/master/assets/img/profile.jpg?raw=true>
 
 Hi! I'm Daniel!
 
