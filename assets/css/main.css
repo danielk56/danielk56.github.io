@@ -4,6 +4,10 @@
     --color-green: #16a085;
 }
 
+.gree {
+    color: var(--color-green);
+}
+
 main a:not(.button):not(.fa):not(.arrow),
 footer a:not(.button):not(.fa):not(.arrow){
     padding-left: 2px;
