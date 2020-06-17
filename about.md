@@ -8,7 +8,7 @@ title: About
 <div class="wide" markdown="1">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/danielk56/danielk56.github.io/master/assets/img/profile.jpg?raw=true "Profile""/>
+  <img src="https://raw.githubusercontent.com/danielk56/danielk56.github.io/master/assets/img/profile.jpg?raw=true "Profile">
 </p>
 
 
