@@ -4,7 +4,7 @@ title: About
 ---
 
 
-![Profile][https://raw.githubusercontent.com/danielk56/danielk56.github.io/master/assets/img/profile.jpg]
+![Profile][https://raw.githubusercontent.com/danielk56/danielk56.github.io/master/assets/img/profile.jpg raw=true "Profile"]
 
 <div class="wide" markdown="1">
 
