@@ -2,10 +2,10 @@
 layout: page
 title: About
 ---
+![Profile][/assets/img/profile.jpg]
+
 
 <div class="wide" markdown="1">
-
-![Profile][https://raw.githubusercontent.com/danielk56/danielk56.github.io/master/assets/img/profile.jpg]
 
 Hi! I'm Daniel!
 
