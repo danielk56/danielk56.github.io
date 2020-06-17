@@ -2,13 +2,13 @@
 layout: page
 title: About
 ---
-![Profile][/assets/img/profile.jpg]
 
+
+![Profile][https://raw.githubusercontent.com/danielk56/danielk56.github.io/master/assets/img/profile.jpg]
 
 <div class="wide" markdown="1">
 
 Hi! I'm Daniel!
-
 
 I’m a junior at Yale University, in New Haven, Connecticut, studying <span class="evidence"> 
 statistics & data science</span>. I'm passionate about data, particularly in its role as acting 
