@@ -1,5 +1,9 @@
 @charset "UTF-8";
 
+:root {
+    --color-green: #16a085;
+}
+
 main a:not(.button):not(.fa):not(.arrow),
 footer a:not(.button):not(.fa):not(.arrow){
     padding-left: 2px;
