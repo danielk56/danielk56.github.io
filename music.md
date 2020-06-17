@@ -23,14 +23,15 @@ title: Music
 
 {: .list-plus}
 
-- **National Youth Orchestra of the United States of America 2016**
+- **National Youth Orchestra of the United States of America 2016** [Involvement](https://www.carnegiehall.org/Education/Young-Musicians/National-Youth-Ensembles/NYO-USA/NYO-USA-2016){:target="_blank" class="button inline-label-page"}
 
 {: .list-arrows}
 
 - Worked with top professionals including principal players from top American orchestras, including the New York    Philharmonic, Chicago Symphony Orchestra, and Philadelphia Orchestra, among others
 - Performed with renowned guest conductors Christoph Eschenbach and Valery Gergiev in a double program with world-class soloists Emmanuel Ax and Denis Matsuev.
 - Played in 6 concerts in Purchase College Performing Arts Center (Purchase, New York); Carnegie Hall (New York, New York); Opera Berlioz (Montpellier, France); Tivoli Gardens (Copenhagen, Denmark); (The Concertgebouw) (Amsterdam, Netherlands); Smetana Hall (Prague, Czech Republic).
-- [Involvement](https://www.carnegiehall.org/uploadedFiles/Resources_and_Components/PDF/Press/2015-2016_Press_Kit/2016%20NYO-USA%20Roster.pdf){:target="_blank" class="button inline-label-page"}
+- Listen to the performancs:[Prokofiev](https://www.youtube.com/watch?v=JjgcKUtYdts){:target="_blank" class="button inline-label-page"} [Debussy](https://www.youtube.com/watch?v=ez5x7FcE-E8){:target="_blank" class="button inline-label-page"} [Mozart](https://www.youtube.com/watch?v=kWnpm6OnB3k){:target="_blank" class="button inline-label-page"} [Bruckner + Mozart](https://www.wqxr.org/story/national-youth-orchestra-united-states-america-plays-mozart-and-bruckner/){:target="_blank" class="button inline-label-page"}
+
     
 {: .list-plus}
 
