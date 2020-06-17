@@ -7,6 +7,10 @@ title: Work
 
 Below, I've compiled my projects that I have completed in my courses, internships, and personal time to capture the variety of my interests, passions, and adroitness. I love to see how my work leads to tangible results in my personal growth and the communities that I am a part of. 
   
+<a href="https://drive.google.com/file/d/1QW_0gkjPzAPNXHyYPadLnSwUZPK74WIX/view?usp=sharing">
+    <button>Resume</button>
+</a>
+
 {: .list-arrows .list-bold}
 
 - [Data science](#data-science)
@@ -42,6 +46,7 @@ Below, I've compiled my projects that I have completed in my courses, internship
 
 - **Cook for Yale Pop Up**, a completely student-run and student-managed dining experienced housed in the university's residential college system. Helps design the menu on a bi-weekly basis and cook for crowds ranging from 60 to 100 people on weekends. Selected from an intensive audition process.[Photos](https://drive.google.com/drive/folders/1vzjcyZ-oEXPlx0gVpVvmtS8hUBs69u13?usp=sharing){:target="_blank" class="button inline-label-page"} 
 - **Shadowed 30 Under 30 Food & Drink Chef Lucas Sin** during a professional externship at the Junzi Test Kitchen in Times Square, New York City. Underwent professional training for the restaurant industry at a culinary and management level; learned the daily operations of Junzi's main industrial-sized preparatory kitchen. Helped prepare a five course meal for a Dinner and Discussion with Farmshelf. [Photos](https://drive.google.com/drive/folders/1CcbGgEMQLU-qXVCtmW-ql5pSIzWeTJTT?usp=sharing){:target="_blank" class="button inline-label-page"} 
-- **Runner up for Ezra Stiles Final Cut Competition**, parterning with staff at Yale Dining to develop a recipe in professional residential college kitchen. Helped incorporate Asian-Fusion food into the curriculum of the Final Cut competition with dishes such as scallion latkes, asian pear apple sauce, sriracha sour cream and more.
+- **Runner up for Ezra Stiles Final Cut Competition**, parterning with staff at Yale Dining to develop a recipe in professional residential college kitchen. Helped incorporate Asian-Fusion food into the curriculum of the Final Cut competition with dishes such as scallion latkes, asian pear apple sauce, sriracha sour cream and more.[Photos](https://drive.google.com/drive/folders/1swvtNHMMW0irBXy5jfG5muWEQ4FAVpmr?usp=sharing){:target="_blank" class="button inline-label-page"} 
+
 
 </div>
