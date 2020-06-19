@@ -35,9 +35,9 @@ title: Music
 
 <br>
 
-{: .list-plus}
 
-- **National Youth Orchestra of the United States of America 2016** [Involvement](https://www.carnegiehall.org/Education/Young-Musicians/National-Youth-Ensembles/NYO-USA/NYO-USA-2016){:target="_blank" class="button inline-label-page"}
+
+## National Youth Orchestra of the United States of America 2016 [Involvement](https://www.carnegiehall.org/Education/Young-Musicians/National-Youth-Ensembles/NYO-USA/NYO-USA-2016){:target="_blank" class="button inline-label-page"}
 
 {: .list-arrows}
 
@@ -47,9 +47,9 @@ title: Music
 - Listen to the performancs:[Prokofiev](https://www.youtube.com/watch?v=JjgcKUtYdts){:target="_blank" class="button inline-label-page"} [Debussy](https://www.youtube.com/watch?v=ez5x7FcE-E8){:target="_blank" class="button inline-label-page"} [Mozart](https://www.youtube.com/watch?v=kWnpm6OnB3k){:target="_blank" class="button inline-label-page"} [Bruckner + Mozart](https://www.wqxr.org/story/national-youth-orchestra-united-states-america-plays-mozart-and-bruckner/){:target="_blank" class="button inline-label-page"}
 
     
-{: .list-plus}
 
-- **National Youth Orchestra of the United States of America 2017** [Involvement](https://www.carnegiehall.org/Education/Young-Musicians/National-Youth-Ensembles/NYO-USA/NYO-USA-2017){:target="_blank" class="button inline-label-page"}
+
+## National Youth Orchestra of the United States of America 2017 [Involvement](https://www.carnegiehall.org/Education/Young-Musicians/National-Youth-Ensembles/NYO-USA/NYO-USA-2017){:target="_blank" class="button inline-label-page"}
 
 {: .list-arrows}
 
@@ -61,17 +61,15 @@ title: Music
 
 
 
-{: .list-plus}
 
-- **Recognition by United States of America Congressman** (House of Representatives) Mr. Leonard Lance of the Seventh Congressional District of New Jersey
+
+## Recognition by United States of America Congressman** (House of Representatives) Mr. Leonard Lance of the Seventh Congressional District of New Jersey
 
 {: .list-arrows}
 
 - Asked to play at Congressman Lance's office in Westfield, New Jersey on August 10th, 2016
 
-{: .list-plus}
-
-- **Finalist for the Monmouth Symphony Orchestra's Concerto Competition (2016)**
-- **Semi-Finalist for United States Marine Band Concerto Competition (2015)**
+## Finalist for the Monmouth Symphony Orchestra's Concerto Competition (2016)
+## Semi-Finalist for United States Marine Band Concerto Competition (2015)
 
 </div>
