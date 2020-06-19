@@ -63,7 +63,7 @@ title: Music
 
 
 
-## Recognition by United States of America Congressman** (House of Representatives) Mr. Leonard Lance of the Seventh Congressional District of New Jersey
+## Recognition by United States of America Congressman (House of Representatives) Mr. Leonard Lance of the Seventh Congressional District of New Jersey
 
 {: .list-arrows}
 
