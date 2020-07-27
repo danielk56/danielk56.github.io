@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: basic
 title: Hello
 subtitle: My name is Daniel!
 sitemap:
