@@ -136,12 +136,14 @@ img.displayed {
 
   .page-title__text {
     font-weight: 700;
-    font-size: 150%; }
+    font-size: 150%;
+    text-align: center;}
 
   .page-title__subtitle {
     font-weight: 400;
     font-size: 75%;
-    color: #828282; }
+    color: #828282;
+    text-align: center;}
 
 /* =Post teasers *//*************************************************************/
   .list-posts {
