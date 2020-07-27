@@ -329,7 +329,7 @@ img.displayed {
 }
 
 .inline-label-github {
-    background-color: #16a085;
+    background-color: var(--color-green);
 }
 
 .inline-label-page {
