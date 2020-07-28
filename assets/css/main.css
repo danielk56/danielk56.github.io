@@ -94,10 +94,6 @@ h4 {
     line-height: 1.5em;
 }
 
-a.anchor {
-    padding: 0 !important;
-}
-
 .blue {
     color: var(--color-blue);
 }
@@ -129,9 +125,13 @@ a.anchor {
     background-color: #FFF; }
 
   a {
-    color: #57A;
+    color: #0083ff;
     font-weight: bold;
     text-decoration: none; }
+
+    a.anchor {
+    padding: 0 !important;
+    }
 
   p, ul, ol, dl {
     font-size: 100%;
