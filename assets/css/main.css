@@ -88,9 +88,6 @@ img.displayed {
       color: #828282;
       font-weight: 400; }
 
-  strong {
-    color: #16a085; }
-
   .wrapper {
     max-width: 90%;
     margin: 60px auto; }
@@ -303,49 +300,6 @@ img.displayed {
     margin-right: 30px;
 }
 
-
-/* PAGE STYLES: WORK */
-
-.inline-label-now,
-.inline-label-note,
-.inline-label-github,
-.inline-label-page {
-    font-size: 90%;
-    font-weight: 600;
-    color: white;
-    border-radius: 3px;
-    padding: 1px 6px;
-    margin-right: 1px;
-    margin-left: 3px;
-    text-decoration: none;
-    transition: all 0.25s ease-in-out;
-}
-
-.inline-label-github:hover,
-.inline-label-page:hover {
-    opacity: 0.75;
-    transition: all 0.25s ease-in-out;
-}
-
-.inline-label-now {
-    margin-right: 4px;
-    background-color: var(--color-blue);
-}
-
-.inline-label-note {
-    color: black !important;
-    background-color: #eeeeee;
-}
-
-.inline-label-github {
-    background-color: var(--color-green);
-}
-
-.inline-label-page {
-    background-color: #fa284b;
-}
-
-
 /* PAGE STYLES: HOME */
 
 .home-top {
@@ -421,6 +375,48 @@ img.displayed {
         font-size: 150%;
     }
 }
+
+/* PAGE STYLES: WORK */
+
+.inline-label-now,
+.inline-label-note,
+.inline-label-github,
+.inline-label-page {
+    font-size: 90%;
+    font-weight: 600;
+    color: white;
+    border-radius: 3px;
+    padding: 1px 6px;
+    margin-right: 1px;
+    margin-left: 3px;
+    text-decoration: none;
+    transition: all 0.25s ease-in-out;
+}
+
+.inline-label-github:hover,
+.inline-label-page:hover {
+    opacity: 0.75;
+    transition: all 0.25s ease-in-out;
+}
+
+.inline-label-now {
+    margin-right: 4px;
+    background-color: var(--color-blue);
+}
+
+.inline-label-note {
+    color: black !important;
+    background-color: #eeeeee;
+}
+
+.inline-label-github {
+    background-color: var(--color-green);
+}
+
+.inline-label-page {
+    background-color: #fa284b;
+}
+
 
 /* PAGE STYLES: BIO */
 
