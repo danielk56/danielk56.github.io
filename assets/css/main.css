@@ -481,7 +481,7 @@ img.displayed {
 
 .inline-label-now {
     margin-right: 4px;
-    background-color: var(--color-blue);
+    background-color: var(--color-green);
 }
 
 .inline-label-note {
@@ -490,7 +490,7 @@ img.displayed {
 }
 
 .inline-label-github {
-    background-color: var(--color-green);
+    background-color: var(--color-blue);
 }
 
 .inline-label-page {
