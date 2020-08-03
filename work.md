@@ -8,7 +8,7 @@ title: Work
 Below, I've compiled my projects that I have completed in my courses, internships, and personal time to capture the variety of my interests, passions, and adroitness. I love to see how my work leads to tangible results in my personal growth and the communities that I am a part of. 
 
 <p align="left">
-<a href="https://drive.google.com/file/d/1GBI3ykQBhWnnwya7mAhLUZ36W7RZgeCf/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1fMvh8hlZhckJFjDGtDYdHwEHbnSrpINH/view?usp=sharing">
     <button>Resume</button>
 </a>
 </p>
