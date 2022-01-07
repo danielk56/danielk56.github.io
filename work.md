@@ -7,7 +7,7 @@ title: Work
 
 Below, I've compiled my projects that I have completed in my courses, internships, and personal time to capture the variety of my interests, passions, and adroitness. I love to see how my work leads to tangible results in my personal growth and the communities that I am a part of. 
 
-<p align="left">
+<p align="center">
 <a href="https://drive.google.com/drive/u/1/search?q=resume">
     <button>Resume</button>
 </a>
