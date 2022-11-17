@@ -3,26 +3,28 @@ layout: page
 title: Art
 ---
 <div class="photo-preview">
-  <div class="intro-header">
-    <h4>Photography</h4>
-    <a href="https://djkim.my.canva.site/">All photos→</a>
-  </div>
-  <div class="cols">
-    <div class="half">
-      <a href="https://djkim.my.canva.site/" class="button">
-        <div class="photo-container">
-          <img src="/assets/img/one.jpg">
-        </div>
-      </a>
+  <p align="center">
+    <div class="intro-header">
+      <h4>Photography</h4>
+      <a href="https://djkim.my.canva.site/">All photos→</a>
     </div>
-    <div class="half">
-      <a href="https://djkim.my.canva.site/" class="button">
-        <div class="photo-container">
-          <img src="/assets/img/two.jpg">
-        </div>
-      </a>
+    <div class="cols">
+      <div class="half">
+        <a href="https://djkim.my.canva.site/" class="button">
+          <div class="photo-container">
+            <img src="/assets/img/one.jpg">
+          </div>
+        </a>
+      </div>
+      <div class="half">
+        <a href="https://djkim.my.canva.site/" class="button">
+          <div class="photo-container">
+            <img src="/assets/img/two.jpg">
+          </div>
+        </a>
+      </div>
     </div>
-  </div>
+  </p>
 </div>
 
 
