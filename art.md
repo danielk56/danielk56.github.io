@@ -7,16 +7,10 @@ title: Art
 
 <div class="wide" markdown="1">
 
-<p align="right">
-<a href="https://djkim.my.canva.site/" class = "button">
-    <div class="photo-container">
-        <img src="/assets/img/one.jpg">
-    </div>
-</a>
-</p>
-
 <p align="center">
-<a href="https://djkim.my.canva.site/">All photos→</a>
+<a href="https://djkim.my.canva.site/">
+    <button>Resume</button>
+</a>
 </p>
 
 <p align="center">
