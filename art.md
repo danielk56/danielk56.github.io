@@ -9,6 +9,9 @@ title: Art
 
 <p align="center">
 <a href="https://djkim.my.canva.site/">All photos→</a>
+</p>
+
+<p align="center">
 <a href="https://djkim.my.canva.site/" class = "button>
     <div class="photo-container">
         <img src="/assets/img/one.jpg">
