@@ -8,15 +8,15 @@ title: Art
 <div class="wide" markdown="1">
 
 <p align="center">
-<a href="https://djkim.my.canva.site/">All photos→</a>
-</p>
-
-<p align="center">
 <a href="https://djkim.my.canva.site/" class = "button>
     <div class="photo-container">
         <img src="/assets/img/one.jpg">
     </div>
 </a>
+</p>
+
+<p align="center">
+<a href="https://djkim.my.canva.site/">All photos→</a>
 </p>
 
 <p align="center">
