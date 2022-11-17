@@ -69,7 +69,4 @@ title: Music
 
 - Asked to play at Congressman Lance's office in Westfield, New Jersey on August 10th, 2016
 
-## Finalist for the Monmouth Symphony Orchestra's Concerto Competition (2016)
-## Semi-Finalist for United States Marine Band Concerto Competition (2015)
-
 </div>
