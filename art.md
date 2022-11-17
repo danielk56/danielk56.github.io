@@ -11,14 +11,14 @@ title: Art
     <div class="half">
       <a href="https://djkim.my.canva.site/" class="button">
         <div class="photo-container">
-          <img src="/media/DZ_20201128_0116_1768A.jpg">
+          <img src="/assets/img/one.jpg">
         </div>
       </a>
     </div>
     <div class="half">
       <a href="https://djkim.my.canva.site/" class="button">
         <div class="photo-container">
-          <img src="/media/DZ_20200126_1627_3395.jpg">
+          <img src="/assets/img/two.jpg">
         </div>
       </a>
     </div>
