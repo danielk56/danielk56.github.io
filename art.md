@@ -9,7 +9,7 @@ title: Art
 
 <p align="center">
 <a href="https://djkim.my.canva.site/">
-    <button>Resume</button>
+    <button>Photo Website</button>
 </a>
 </p>
 
